@@ -1,0 +1,122 @@
+run:
+Enter Name : Tonny
+Enter Email Address : sunjidaaziz58@gmail.com
+Enter City : Dhaka
+Enter address of area : westShewrapara,mirpur
+
+===========================================================================================================
+                                             Customer details                                                
+===========================================================================================================
+Customer name    : Tonny
+Customer Email   : sunjidaaziz58@gmail.com
+Customer City    : Dhaka
+Customer Address : westShewrapara,mirpur
+
+===========================================================================================================
+                                              Plant Section                                                
+-----------------------------------------------------------------------------------------------------------
+1. PlantID : 1    Plant Name : Rose cactus    Price per plant : 90.0 BDT
+2. PlantID : 2    Plant Name : Orchid         Price per plant : 550.0 BDT
+3. PlantID : 3    Plant Name : Oporajita      Price per plant : 70.0 BDT
+4. PlantID : 4    Plant Name : Black Rose     Price per plant : 250.0 BDT
+5. PlantID : 5    Plant Name : Cactus         Price per plant : 70.0 BDT
+
+How mamy types of plants do you want to buy???
+4
+Enter PlantID : 2
+No of plant(s) : 3
+___________________________________________________________________________________________________________
+1. Plant ID : 2 ,  Plant name: Orchid , Number Of Plants: 3 , Price: 1650.0 BDT
+___________________________________________________________________________________________________________
+Enter PlantID : 4
+No of plant(s) : 1
+___________________________________________________________________________________________________________
+2. Plant ID : 4 ,  Plant name: Black Rose , Number Of Plants: 1 , Price: 250.0 BDT
+___________________________________________________________________________________________________________
+Enter PlantID : 5
+No of plant(s) : 2
+___________________________________________________________________________________________________________
+3. Plant ID : 5 ,  Plant name: Cactus , Number Of Plants: 2 , Price: 140.0 BDT
+___________________________________________________________________________________________________________
+Enter PlantID : 1
+No of plant(s) : 1
+___________________________________________________________________________________________________________
+4. Plant ID : 1 ,  Plant name: Rose cactus , Number Of Plants: 1 , Price: 90.0 BDT
+___________________________________________________________________________________________________________
+
+Total Price of Plant : 2130.0 ?
+
+===========================================================================================================
+                                             Soil Section                                                  
+-----------------------------------------------------------------------------------------------------------
+1. SoilID : 1    pH : 5.1    Price per bag : 45.0 BDT
+2. SoilID : 2    pH : 8.2    Price per bag : 50.0 BDT
+3. SoilID : 3    pH : 6.2    Price per bag : 65.0 BDT
+4. SoilID : 4    pH : 4.0    Price per bag : 40.0 BDT
+5. SoilID : 5    pH : 8.0    Price per bag : 38.0 BDT
+
+How mamy types of readymade Soil do you want to buy???
+1
+Enter SoilID : 3
+No of Bag(s) : 4
+___________________________________________________________________________________________________________
+1. Soil ID : 3 ,  pH : 6.2 , Number Of Bag(s): 4.0 , Price: 260.0 BDT
+___________________________________________________________________________________________________________
+
+Total Price of readymade Soil : 260.0 BDT
+___________________________________________________________________________________________________________
+
+Do You want to mix soil??? If you want, press 1 . Else  press 0. 
+1
+Enter SoilID of Soil Type 1 : 2
+Enter number of bag(s) of Soil Type 1 : 2
+Enter SoilID of Soil Type 2 : 4
+Enter number of bag(s) of Soil Type 2 : 2
+___________________________________________________________________________________________________________
+Mixed soil:
+pH:6.1 (pH of this soil is perfect for plants...)
+___________________________________________________________________________________________________________
+Mixed Soil ID : 2 & 4 ,  pH : 6.1 , Number Of Bag(s): 4.0 , Price: 200.0 BDT
+___________________________________________________________________________________________________________
+
+Total Price of Soil : 460.0 BDT
+===========================================================================================================
+                                              Pot Section                                                  
+-----------------------------------------------------------------------------------------------------------
+1. PotID : 1    Material : Clay Pot       Size : Medium    Price per Pot : 35.0 BDT
+2. PotID : 2    Material : Plastic Pot    Size : Medium    Price per Pot : 30.0 BDT
+3. PotID : 3    Material : Clay Pot       Size : Small     Price per Pot : 20.0 BDT
+4. PotID : 4    Material : Plastic Pot    Size : Large     Price per Pot : 45.0 BDT
+5. PotID : 5    Material : Ceramic Pot    Size : Small     Price per Pot : 100.0 BDT
+
+How mamy types of pots do you want to buy???
+4
+Enter PotID : 5
+No of pot(s) : 3
+___________________________________________________________________________________________________________
+1. Pot ID : 5 ,  Pot Material: Ceramic Pot , Size : Small , Number Of Plants: 3 , Price: 300.0 BDT
+___________________________________________________________________________________________________________
+Enter PotID : 4
+No of pot(s) : 2
+___________________________________________________________________________________________________________
+2. Pot ID : 4 ,  Pot Material: Plastic Pot , Size : Large , Number Of Plants: 2 , Price: 90.0 BDT
+___________________________________________________________________________________________________________
+Enter PotID : 1
+No of pot(s) : 7
+___________________________________________________________________________________________________________
+3. Pot ID : 1 ,  Pot Material: Clay Pot , Size : Medium , Number Of Plants: 7 , Price: 245.0 BDT
+___________________________________________________________________________________________________________
+Enter PotID : 3
+No of pot(s) : 5
+___________________________________________________________________________________________________________
+4. Pot ID : 3 ,  Pot Material: Clay Pot , Size : Small , Number Of Plants: 5 , Price: 100.0 BDT
+___________________________________________________________________________________________________________
+Total Price of Pot : 735.0 BDT
+===========================================================================================================
+
+Vat             : 5%
+Delivery Charge : 70 BDT
+Total Cost      : 3351 BDT
+===========================================================================================================
+
+BUILD SUCCESSFUL (total time: 3 minutes 30 seconds)
